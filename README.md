@@ -16,7 +16,7 @@ This is a **research prototype**. It uses **synthetic data**. It does **not** re
 
 ## Quick Start
 ```bash
-git clone https://github.com/your-org/SA-CreditExplain.git
+git clone https://github.com/Miungu-AI/SA-Credit-Explain.git
 cd SA-CreditExplain
 pip install -r requirements.txt
 python -m src.data.generate_synthetic_data
